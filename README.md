@@ -19,3 +19,4 @@
 Every repository is configured to:
 * be analyzed once a week on Travis CI
 * make sure the SonarCloud team gets notified (through the "SonarCloud" Hipchat room) if there's a failure
+123
